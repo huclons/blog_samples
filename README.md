@@ -1,3 +1,6 @@
+# Github #
+https://github.com/kunny/blog_samples
+
 # Blog samples [![Build Status](https://travis-ci.org/kunny/blog_samples.svg?branch=master)](https://travis-ci.org/kunny/blog_samples)
 
 
